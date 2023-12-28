@@ -9,7 +9,9 @@
 * email,
 * телефон.
 
-Схема представлена на рисунке ![Database.drawio.png](Database.drawio.png)
+Схема представлена на рисунке
+
+![Database.drawio.png](Database.drawio.png)
 
 Пароль от PostgreSQL вставляем в файл [password.ini](password.ini)
 
