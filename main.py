@@ -161,6 +161,7 @@ if __name__ == '__main__':
             find_client(conn, None, 'Ivanov')
             find_client(conn, None, None, 'Vanya@ya.ru')
             find_client(conn, None, None, None, '83578123')
+    conn.close()
 
 
 # Первоначальный вариант
